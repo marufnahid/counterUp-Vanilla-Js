@@ -1,0 +1,20 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(132, 30, 228);
+}
+.counter-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+.counter-up span {
+
+    color: #fff;
+}
+.counter-up span:first-child {
+    font-size: 80px;
+}
